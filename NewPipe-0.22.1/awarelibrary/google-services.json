@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "149424464438",
+    "project_id": "newpipeaware",
+    "storage_bucket": "newpipeaware.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149424464438:android:e6c07b6cdcc25017b2ee97",
+        "android_client_info": {
+          "package_name": "org.schabi.newpipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149424464438-rlp7k13kq022f1ok3kq6jhj89r20673n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBZ3xOxaMldZ1DJvzyVLtxyN4n0KIUbes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149424464438-rlp7k13kq022f1ok3kq6jhj89r20673n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149424464438:android:e2daa95e241d27cfb2ee97",
+        "android_client_info": {
+          "package_name": "org.schabi.newpipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149424464438-rlp7k13kq022f1ok3kq6jhj89r20673n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBZ3xOxaMldZ1DJvzyVLtxyN4n0KIUbes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149424464438-rlp7k13kq022f1ok3kq6jhj89r20673n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
